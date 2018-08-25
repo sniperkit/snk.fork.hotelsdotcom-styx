@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #This file is used to configure the origins that Styx will proxy to.
 #The file name format for origins files is origins-<ENVIRONMENT>.yaml
 #

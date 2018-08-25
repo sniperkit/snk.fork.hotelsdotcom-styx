@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 
 //Simple JavaScript Templating
 //John Resig - http://ejohn.org/ - MIT Licensed

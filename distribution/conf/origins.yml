@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # See origins/origins-default.yaml for explanation of config format
 ---
 - id: "app"

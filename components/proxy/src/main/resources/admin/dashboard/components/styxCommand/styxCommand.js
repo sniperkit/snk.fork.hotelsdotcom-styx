@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 /**
  * This code is heavily inspired and based on Netflix Hystrix Dashboard
  * https://github.com/Netflix/Hystrix/tree/master/hystrix-dashboard
